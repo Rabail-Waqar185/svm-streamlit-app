@@ -1,0 +1,5 @@
+streamlit           # Core framework for the app
+numpy               # For numerical computations
+scikit-learn        # For the SVM model
+matplotlib          # For plotting graphs
+pyngrok             # Only needed if using ngrok in Colab
